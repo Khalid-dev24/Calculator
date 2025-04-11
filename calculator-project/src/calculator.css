@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right, #f12711, #f5af19, #c471ed);
+}
+
+.calc {
+    width: 20rem;
+    margin: 4rem auto;
+    height: 70vh;
+    
+}
+
+#answer {
+    background-color: #e3e3e3;
+    padding: 0.75rem;
+    font-size: 2rem;
+    width: 18.18rem;
+    text-align: right;
+    height: 2.8rem;
+    border: 0.2rem solid #333;
+}
+
+.button {
+    background-color: #333;
+    color: white;
+    width: 5rem;
+    height: 5rem;
+    font-size: 2rem;
+    border: 0.1rem solid black;
+    float: left;
+    cursor: pointer;
+}
+
+.button1 {
+    width: 10rem;
+}
+
+p {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 80px;
+}
